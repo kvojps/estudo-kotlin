@@ -1,4 +1,4 @@
-package Poo.Classes
+package IntroducaoObjetos.Classes
 
 class Robot {
     fun right(steps: Int) = println("Right $steps steps")

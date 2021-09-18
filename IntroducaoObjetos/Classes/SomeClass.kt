@@ -1,4 +1,4 @@
-package Poo.Classes
+package IntroducaoObjetos.Classes
 
 class SomeClass {
     fun a() = println("42")

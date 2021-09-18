@@ -1,4 +1,4 @@
-package Poo.Propriedades
+package IntroducaoObjetos.Propriedades
 
 class X {
     val a = 3
